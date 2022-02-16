@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This homework assignment contains 6 problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-022-physics-ii-electricity-and-magnetism-fall-2004/6b4aa5630356e0e67fa1050a3e22463a_pset0.pdf
+file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/6b4aa5630356e0e67fa1050a3e22463a_pset0.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset0.pdf
 uid: 6b4aa563-0356-e0e6-7fa1-050a3e22463a

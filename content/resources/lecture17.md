@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   Driven AC Circuits, Phasors, Impedance, Power, and Energy.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-022-physics-ii-electricity-and-magnetism-fall-2004/06e667759af969c3ede560f1fc0bc93b_lecture17.pdf
+file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/06e667759af969c3ede560f1fc0bc93b_lecture17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture17.pdf
 uid: 06e66775-9af9-69c3-ede5-60f1fc0bc93b
