@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6e7983fe-f6c1-8d0b-5063-8e29ea4f4457
 resourcetype: Other
 title: lab2_RLCCurrentVsVoltage.ds
 uid: b05b9929-21a2-e306-e19a-bdaec13483fc

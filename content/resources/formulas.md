@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2ef3b5c8-3850-fe95-fdf3-7de6e7cbf147
 resourcetype: Document
 title: formulas.pdf
 uid: 299e057b-594d-f4ba-f877-995e9a4188fd

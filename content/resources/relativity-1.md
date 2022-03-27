@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2ef3b5c8-3850-fe95-fdf3-7de6e7cbf147
 resourcetype: Document
 title: relativity.pdf
 uid: 05ac5289-2fcf-bdd4-3d0c-a23cf7f93dbd

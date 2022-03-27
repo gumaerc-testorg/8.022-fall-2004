@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b1b93926-b03e-8952-0a95-28ded10c23e9
 resourcetype: Document
 title: finalformulae.pdf
 uid: 837241a2-057a-b973-fcc3-dace509456b1

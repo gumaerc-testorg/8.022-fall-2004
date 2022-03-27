@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b1b93926-b03e-8952-0a95-28ded10c23e9
 resourcetype: Document
 title: 8022formulae.pdf
 uid: a9a90a28-cbbb-05dc-360c-794a3a2d0cbb

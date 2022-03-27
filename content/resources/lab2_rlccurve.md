@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6e7983fe-f6c1-8d0b-5063-8e29ea4f4457
 resourcetype: Other
 title: lab2_RLCcurve.ds
 uid: b951de5f-7622-c759-55b0-9897e20761ad
