@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   Lectures on Current, Continuity Equation, Resistance, and Ohm''s Law.'
-file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/fa6d8a67e9e53df0e2cbaed7b755b07a_lecture7.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/fa6d8a67e9e53df0e2cbaed7b755b07a_lecture7.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lecture7.pdf
 uid: fa6d8a67-e9e5-3df0-e2cb-aed7b755b07a
 ---
+Slides from the lecture presentation covering the following topics: Lectures on Current, Continuity Equation, Resistance, and Ohm's Law.
+

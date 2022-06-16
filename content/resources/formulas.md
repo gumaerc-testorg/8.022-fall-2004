@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: List of useful mathematical formulae.
-file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/299e057b594df4baf877995e9a4188fd_formulas.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/299e057b594df4baf877995e9a4188fd_formulas.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: formulas.pdf
 uid: 299e057b-594d-f4ba-f877-995e9a4188fd
 ---
+List of useful mathematical formulae.
+

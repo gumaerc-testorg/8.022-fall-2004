@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Some of the problems are assigned from the course textbook: Purcell,
+  E. M. Electricity and Magnetism. 2nd ed. Vol. 2. Berkeley Physics Course. The problem
+  sets were handed out in the sessions noted in the table.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -36,7 +39,7 @@ DUE DATES
 Math Review/Practice
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 0 ([PDF]({{< baseurl >}}/resources/pset0))
+Problem Set 0 ({{% resource_link 6b4aa563-0356-e0e6-7fa1-050a3e22463a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -51,7 +54,7 @@ Problem Set 0 ([PDF]({{< baseurl >}}/resources/pset0))
 Electric Forces and Electric Fields
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
+Problem Set 1 ({{% resource_link ddbd87cc-fda4-c85b-8761-71e4ec340c17 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 0 due one day before session 2
@@ -66,7 +69,7 @@ Problem set 0 due one day before session 2
 Electric Potential
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2))
+Problem Set 2 ({{% resource_link 86c67a2a-80e1-881f-cbf5-e110d75c48c8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 1 due one day after session 3
@@ -81,7 +84,7 @@ Problem set 1 due one day after session 3
 Electric Potential and Capacitance
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3))
+Problem Set 3 ({{% resource_link 3cf31a82-7412-e2af-2d60-25575987e738 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 2 due
@@ -96,7 +99,7 @@ Problem set 2 due
 Electric Current
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset4))
+Problem Set 4 ({{% resource_link eae5e621-439d-aaed-6d69-0de3270ee8d0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 3 due
@@ -113,7 +116,7 @@ Special Relativit
 Magnetic Field
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset5))
+Problem Set 5 ({{% resource_link fb3ec745-135b-290c-7963-f99cf4f04964 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 4 due
@@ -132,9 +135,9 @@ Magnetic Potential
 Biot-Savart Law
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/pset6))  
+Problem Set 6 ({{% resource_link 5db3a1c1-688d-82a8-e18c-360ae4fabe99 "PDF" %}})  
   
-Hint for Problem 3 ([PDF]({{< baseurl >}}/resources/hintp3))
+Hint for Problem 3 ({{% resource_link 31475041-2f7d-f8d1-a7d4-025183218021 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 5 due
@@ -151,7 +154,7 @@ Faraday's Law
 Inductance
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/pset7))
+Problem Set 7 ({{% resource_link 004e6959-0818-29eb-1958-e0f11741e4fb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 6 due
@@ -168,7 +171,7 @@ RLC Circuits
 AC Circuits
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/pset8))
+Problem Set 8 ({{% resource_link f12a0e17-97ab-02bf-fa46-218b8887b434 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 7 due
@@ -187,7 +190,7 @@ Filters
 Quality Factor and Resonance
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 9 ([PDF]({{< baseurl >}}/resources/pset9))
+Problem Set 9 ({{% resource_link c5dcebc5-4407-6680-51e6-7b109d88bb59 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 8 due
@@ -204,7 +207,7 @@ Displacement Current
 Electromagnetic Waves
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 10 ([PDF]({{< baseurl >}}/resources/pset10))
+Problem Set 10 ({{% resource_link be74c0b0-d90e-cdd1-f787-8bae40e42a6e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 9 due
@@ -221,7 +224,7 @@ Poynting Vectors
 Electromagnetic Waves Continued
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 11 ([PDF]({{< baseurl >}}/resources/pset11))
+Problem Set 11 ({{% resource_link 3feaf8e5-d972-bbf7-37fe-d4fc532c3c93 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 10 due

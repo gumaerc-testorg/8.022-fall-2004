@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource consists of useful formulae on physics.
-file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/a9a90a28cbbb05dc360c794a3a2d0cbb_8022formulae.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/a9a90a28cbbb05dc360c794a3a2d0cbb_8022formulae.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 8022formulae.pdf
 uid: a9a90a28-cbbb-05dc-360c-794a3a2d0cbb
 ---
+This resource consists of useful formulae on physics.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This homework assignment contains 8 problems.
-file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/86c67a2a80e1881fcbf5e110d75c48c8_pset2.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/86c67a2a80e1881fcbf5e110d75c48c8_pset2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: pset2.pdf
 uid: 86c67a2a-80e1-881f-cbf5-e110d75c48c8
 ---
+This homework assignment contains 8 problems.
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This Section Includes Readings from Purcell, E. M. Electricity and Magnetism.
+  2nd ed. Vol. 2. Berkeley Physics Course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -37,7 +39,7 @@ Coulomb's Law, Superposition
 Energy of Charge Distributions
 {{< tdclose >}}
 {{< tdopen >}}
-Handout ([PDF]({{< baseurl >}}/resources/classmech)) (Courtesy of P. Sphicas, P. Fisher, H. Gao, and E. Katsavounidis. Used with permission.)  
+Handout ({{% resource_link 0ebd9cd5-be2f-55ef-79d3-83ffe68766c2 "PDF" %}}) (Courtesy of P. Sphicas, P. Fisher, H. Gao, and E. Katsavounidis. Used with permission.)  
   
 Purcell, Chapter 1
 {{< tdclose >}}
@@ -211,8 +213,8 @@ Purcell Appendix A
   
 _Handouts  
 _  
-Part 1 ([PDF]({{< baseurl >}}/resources/relativity)) (Courtesy of Peter Fisher. Used with permission.)  
-Part 2 ([PDF]({{< baseurl >}}/resources/relativity2)) (Courtesy of Peter Fisher. Used with permission.)
+Part 1 ({{% resource_link f8cd941a-21a6-71e6-0cc6-6ba76c395896 "PDF" %}}) (Courtesy of Peter Fisher. Used with permission.)  
+Part 2 ({{% resource_link dfcee2a8-3ac5-72c2-a318-7b1dd0ffab23 "PDF" %}}) (Courtesy of Peter Fisher. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
