@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/ddbd87ccfda4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset1.pdf
 uid: ddbd87cc-fda4-c85b-8761-71e4ec340c17
 ---
 This homework assignment contains 7 problems.
-

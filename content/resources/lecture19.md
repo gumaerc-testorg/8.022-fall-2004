@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/ece8a0475196
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture19.pdf
 uid: ece8a047-5196-60f7-128c-2dea6fcec74d
 ---
 Slides from the lecture presentation covering the following topics: Displacement Current and Maxwell's Equations.
-

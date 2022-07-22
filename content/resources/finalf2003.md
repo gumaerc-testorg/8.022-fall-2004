@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/64c23814953b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: finalf2003.pdf
 uid: 64c23814-953b-863e-f912-983b93883ea9
 ---
 Final exam consisting of three problems.
-

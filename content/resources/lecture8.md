@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/7abaea2ba93d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture8.pdf
 uid: 7abaea2b-a93d-cbc2-0f6e-c38bb95fbdfe
 ---
 Slides from the lecture presentation covering the following topics: EMF, Circuits, and Kirchhoff's Rules.
-

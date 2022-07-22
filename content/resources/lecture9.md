@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/46de97e4978f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture9.pdf
 uid: 46de97e4-978f-c003-565f-683871741451
 ---
 Slides from the lecture presentation covering the following topics: Variable Currents, RC Circuits, and Th?venin Equivalence.
-

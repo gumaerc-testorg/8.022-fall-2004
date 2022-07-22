@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/f59496323e41
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture1.pdf
 uid: f5949632-3e41-3301-a731-07db95e40a7e
 ---
 Slides from the lecture presentation covering the following topics: Introduction, Coulomb's Law, Superposition and Energy of Charge Distributions.
-

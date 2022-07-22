@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/55795198bdd4
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab3.pdf
 uid: 55795198-bdd4-3824-2223-94558ea9a0c6
 ---
 Laboratory instructions.
-

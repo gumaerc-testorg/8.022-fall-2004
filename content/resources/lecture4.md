@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/94fbcd216756
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture4.pdf
 uid: 94fbcd21-6756-8164-328f-eac8e82c6019
 ---
 Slides from the lecture presentation covering the following topics: Poisson and Laplace Equations, Curl, Uniqueness Theorem, and Introduction to Conductors.
-

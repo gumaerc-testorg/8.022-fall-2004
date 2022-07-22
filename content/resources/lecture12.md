@@ -7,6 +7,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/8e5a529371d7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture12.pdf
 uid: 8e5a5293-71d7-ebc5-0304-9d075cfae958
 ---
 Slides from the lecture presentation covering the following topics: Special Relativity, Forces and Fields, and Equivalence of Electric and Magnetic Fields.
-

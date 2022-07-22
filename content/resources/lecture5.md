@@ -8,6 +8,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/bbd323d11bd9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: bbd323d1-1bd9-7ec8-e514-027495551a09
 ---
 Slides from the lecture presentation covering the following topics: Fields and Potentials Around Conductors and
 Capacitance.
-

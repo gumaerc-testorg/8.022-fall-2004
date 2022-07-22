@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/b951de5f7622
 file_type: application/octet-stream
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab2_RLCcurve.ds
 uid: b951de5f-7622-c759-55b0-9897e20761ad
 ---
 This resource is an associated file.
-

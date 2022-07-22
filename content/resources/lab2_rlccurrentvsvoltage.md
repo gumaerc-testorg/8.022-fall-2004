@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/b05b992921a2
 file_type: application/octet-stream
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab2_RLCCurrentVsVoltage.ds
 uid: b05b9929-21a2-e306-e19a-bdaec13483fc
 ---
 This resource is an associated file.
-

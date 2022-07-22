@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/d876dcd7dec7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture11.pdf
 uid: d876dcd7-dec7-4b15-8ff5-9b54f9e706d0
 ---
 Slides from the lecture presentation covering the following topics: Special Relativity and Spacetime.
-

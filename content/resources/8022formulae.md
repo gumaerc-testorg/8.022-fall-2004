@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/a9a90a28cbbb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8022formulae.pdf
 uid: a9a90a28-cbbb-05dc-360c-794a3a2d0cbb
 ---
 This resource consists of useful formulae on physics.
-
