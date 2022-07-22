@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6788c685-7b81-57e4-d06f-c0e69c16a3ac
 ---
@@ -23,7 +26,7 @@ Reading
 
 Griffiths, D. J. _Introduction to Electrodynamics._ 3rd ed. Upper Saddler River, NJ: Prentice Hall, December 30, 1998. ISBN: 9780138053260.
 
-Comments: Griffiths is slightly more advanced than Purcell, more math oriented, less words and more concepts: a really good book if you can handle it! In addition, some reading material will be provided in paper or electronic form (see [handouts]({{< baseurl >}}/pages/study-materials)).
+Comments: Griffiths is slightly more advanced than Purcell, more math oriented, less words and more concepts: a really good book if you can handle it! In addition, some reading material will be provided in paper or electronic form (see {{% resource_link 2ef3b5c8-3850-fe95-fdf3-7de6e7cbf147 "handouts" %}}).
 
 Grades
 ------

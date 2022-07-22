@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 7bfe8f48-8d1c-a982-f7bb-879c850613ef
 ---
@@ -32,7 +36,7 @@ Coulomb's Law, Superposition
 Energy of Charge Distributions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1))
+({{% resource_link f5949632-3e41-3301-a731-07db95e40a7e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +48,7 @@ Energy of Charge Distributions
 Electric Field, Electric Flux, Gauss's Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture2))
+({{% resource_link 63f25e1a-6788-d1f2-9da7-870ec50d7b91 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +68,7 @@ Gauss's Law Revisited
 Divergence
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture3))
+({{% resource_link 9b5b6faf-4096-3626-e33a-59428df627ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +86,7 @@ Uniqueness Theorem
 Introduction to Conductors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture4))
+({{% resource_link 94fbcd21-6756-8164-328f-eac8e82c6019 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +112,7 @@ Fields and Potentials around Conductors
 Capacitance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture5))
+({{% resource_link bbd323d1-1bd9-7ec8-e514-027495551a09 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +124,7 @@ Capacitance
 More on Capacitance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture6))
+({{% resource_link 07002b8b-4ec3-6c93-c70b-fc4697be3789 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +138,7 @@ Current, Continuity Equation
 Resistance, Ohm's Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture7))
+({{% resource_link fa6d8a67-e9e5-3df0-e2cb-aed7b755b07a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +164,7 @@ EMF, Circuits
 Kirchhoff's Rules
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture8))
+({{% resource_link 7abaea2b-a93d-cbc2-0f6e-c38bb95fbdfe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +178,7 @@ Variable Currents, RC Circuits
 Thévenin Equivalence
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture9))
+({{% resource_link 46de97e4-978f-c003-565f-683871741451 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +192,7 @@ Magnetic Force, Magnetic Field
 Ampere's Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10))
+({{% resource_link f8443a25-1633-d63e-eb0e-19a7b213d4ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +204,7 @@ Ampere's Law
 Special Relativity I: Spacetime
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture11))
+({{% resource_link d876dcd7-dec7-4b15-8ff5-9b54f9e706d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +218,7 @@ Special Relativity II: Forces and Fields
 Equivalence of Electric and Magnetic Fields
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture12))
+({{% resource_link 8e5a5293-71d7-ebc5-0304-9d075cfae958 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +232,7 @@ Ampere's Law Revisited
 Vector Potential, Biot-Savart Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture13))
+({{% resource_link c6035323-2b6a-b6cb-77de-48f0f6572b50 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +244,7 @@ Vector Potential, Biot-Savart Law
 Faraday's Law, Lenz's Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture14))
+({{% resource_link dc89e80e-e651-b20c-f525-d2c89e026fd8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +258,7 @@ Mutual and Self Inductance
 Magnetic Field Energy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture15))
+({{% resource_link e89de838-a039-1197-f9cb-4f44c2e30c10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +274,7 @@ Undriven RLC Circuits
 Phasor Representation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture16))
+({{% resource_link 7b734848-0e71-d4b8-42db-c339543bd513 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +314,7 @@ Power and Energy
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture17))
+({{% resource_link 06e66775-9af9-69c3-ede5-60f1fc0bc93b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -338,7 +342,7 @@ Filters
 Quality Factor and Resonance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture18))
+({{% resource_link 19b92b26-1f2a-2900-4c97-cdbf189e103b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -350,7 +354,7 @@ Quality Factor and Resonance
 Displacement Current, Maxwell's Equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture19))
+({{% resource_link ece8a047-5196-60f7-128c-2dea6fcec74d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -364,7 +368,7 @@ Wave Equation
 Electromagnetic Radiation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture20))
+({{% resource_link d5c89140-5a06-8cfb-6f4e-493cae793000 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -378,7 +382,7 @@ Radiation (cont.)
 Polarization, Poynting Vector: Energy, Power and Momentum of Radiation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture21))
+({{% resource_link 2f5efba0-b992-6c9c-e8e9-ab0d04bfc7b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -404,7 +408,7 @@ Poynting Vector: Energy, Power and Momentum of Radiation, Magnetic Properties of
 Transmission Lines
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture22))
+({{% resource_link e88d6b3e-6784-f144-6e11-0b0319703a28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
