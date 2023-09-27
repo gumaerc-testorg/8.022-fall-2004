@@ -23,7 +23,7 @@
     "website": "8-022-physics-ii-electricity-and-magnetism-fall-2004"
   },
   "course_title": "Physics II: Electricity and Magnetism",
-  "course_description": "Course 8.022 is one of several second-term freshman physics courses offered at MIT. It is geared towards students who are looking for a thorough and challenging introduction to electricity and magnetism. Topics covered include: Electric and magnetic field and potential; introduction to special relativity; Maxwell's equations, in both differential and integral form; and properties of dielectrics and magnetic materials. In addition to the theoretical subject matter, several experiments in electricity and magnetism are performed by the students in the laboratory.\n\nAcknowledgments\n---------------\n\nProf. Sciolla would like to acknowledge the contributions of MIT Professors Scott Hughes and Peter Fisher to the development of this course. She would also like to acknowledge that these course materials include contributions from past instructors, textbooks, and other members of the MIT Physics Department affiliated with course 8.022. Since the following works have evolved over a period of many years, no single source can be attributed.\n",
+  "course_description": "Course 8.022 is one of several second-term freshman physics courses offered at MIT. It is geared towards students who are looking for a thorough and challenging introduction to electricity and magnetism. Topics covered include: Electric and magnetic field and potential; introduction to special relativity; Maxwell's equations, in both differential and integral form; and properties of dielectrics and magnetic materials. In addition to the theoretical subject matter, several experiments in electricity and magnetism are performed by the students in the laboratory.\n\n**Acknowledgments**\n\nProf. Sciolla would like to acknowledge the contributions of MIT Professors Scott Hughes and Peter Fisher to the development of this course. She would also like to acknowledge that these course materials include contributions from past instructors, textbooks, and other members of the MIT Physics Department affiliated with course 8.022. Since the following works have evolved over a period of many years, no single source can be attributed.",
   "department_numbers": [
     "8"
   ],
@@ -38,6 +38,7 @@
     "Exams",
     "Lecture Notes"
   ],
-  "site_uid": "04d7a7eb-3c6d-4c19-93f2-9ebf6097cf66",
+  "site_uid": "ebb9e655-d69d-41b9-8d93-f5268b73da86",
+  "site_short_id": "8.022-fall-2004",
   "title": "Course Metadata"
 }
