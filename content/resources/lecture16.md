@@ -3,6 +3,7 @@ content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   RL Circuits,Undriven RLC Circuits, and Phasor Representation.'
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/7b7348480e71d4b842dbc339543bd513_lecture16.pdf
+file_size: 94549
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

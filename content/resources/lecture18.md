@@ -3,6 +3,7 @@ content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   AC Circuits(Conclusion), Filters, Quality Factor, and Resonance.'
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/19b92b261f2a29004c97cdbf189e103b_lecture18.pdf
+file_size: 113273
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

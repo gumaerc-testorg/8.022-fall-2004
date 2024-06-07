@@ -5,6 +5,7 @@ description: 'Slides from the lecture presentation covering the following topics
 
   Capacitance.'
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/bbd323d11bd97ec8e514027495551a09_lecture5.pdf
+file_size: 73305
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

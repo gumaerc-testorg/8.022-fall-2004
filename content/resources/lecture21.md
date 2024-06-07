@@ -5,6 +5,7 @@ description: 'Slides from the lecture presentation covering the following topics
 
   Transmission Lines.'
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/2f5efba0b9926c9ce8e9ab0d04bfc7b3_lecture21.pdf
+file_size: 117861
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

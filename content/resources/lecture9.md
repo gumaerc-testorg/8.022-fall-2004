@@ -3,6 +3,7 @@ content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   Variable Currents, RC Circuits, and Th?venin Equivalence.'
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/46de97e4978fc003565f683871741451_lecture9.pdf
+file_size: 95605
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Final exam consisting of three problems.
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/64c23814953b863ef912983b93883ea9_finalf2003.pdf
+file_size: 99646
 file_type: application/pdf
 learning_resource_types:
 - Exams
