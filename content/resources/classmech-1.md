@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes review of Classical Mechanics
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/65f5c1432284132ba7da6b45629933be_classmech.pdf
+file_size: 172847
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

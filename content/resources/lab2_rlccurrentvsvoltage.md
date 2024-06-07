@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is an associated file.
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/b05b992921a2e306e19abdaec13483fc_lab2_RLCCurrentVsVoltage.ds
+file_size: 13057
 file_type: application/octet-stream
 learning_resource_types:
 - Labs

@@ -2,6 +2,7 @@
 content_type: resource
 description: This homework assignment contains 8 problems.
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/eae5e621439daaed6d690de3270ee8d0_pset4.pdf
+file_size: 38166
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/3a0de53bf0fca6e2ce5989bff9e4e9af_pset9_problem7.pdf
+file_size: 50663
 file_type: application/pdf
 learning_resource_types:
 - Assignments
