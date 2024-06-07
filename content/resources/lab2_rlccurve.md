@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is an associated file.
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/b951de5f7622c75955b09897e20761ad_lab2_RLCcurve.ds
+file_size: 11570
 file_type: application/octet-stream
 learning_resource_types:
 - Labs

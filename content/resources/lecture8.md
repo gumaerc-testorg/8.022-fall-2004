@@ -3,6 +3,7 @@ content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   EMF, Circuits, and Kirchhoff''s Rules.'
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/7abaea2ba93dcbc20f6ec38bb95fbdfe_lecture8.pdf
+file_size: 103687
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

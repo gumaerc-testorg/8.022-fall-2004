@@ -3,6 +3,7 @@ content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   Mutual and Self Inductance Magnetic Field Energy.'
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/e89de838a0391197f9cb4f44c2e30c10_lecture15.pdf
+file_size: 84893
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

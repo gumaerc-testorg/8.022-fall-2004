@@ -2,6 +2,7 @@
 content_type: resource
 description: Laboratory instructions.
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/1dfcdd6526cca24dcf632876fa9f3227_lab1.pdf
+file_size: 159858
 file_type: application/pdf
 learning_resource_types:
 - Labs

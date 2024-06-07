@@ -3,6 +3,7 @@ content_type: resource
 description: 'Slides from the lecture presentation covering the following topic: More
   on Capacitance.'
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/07002b8b4ec36c93c70bfc4697be3789_lecture6.pdf
+file_size: 108268
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
