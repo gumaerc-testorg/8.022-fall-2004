@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   Special Relativity and Spacetime.'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/d876dcd7dec74b158ff59b54f9e706d0_lecture11.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/d876dcd7dec74b158ff59b54f9e706d0_lecture11.pdf
 file_size: 97217
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Review handout courtesy of P. Sphicas, P. Fisher, H. Gao, and E. Katsavounidis.
   Used with permission.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/0ebd9cd5be2f55ef79d383ffe68766c2_classmech.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/0ebd9cd5be2f55ef79d383ffe68766c2_classmech.pdf
 file_size: 174060
 file_type: application/pdf
 learning_resource_types:
