@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   Faraday''s Law and Lenz''s Law.'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/dc89e80ee651b20cf525d2c89e026fd8_lecture14.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/dc89e80ee651b20cf525d2c89e026fd8_lecture14.pdf
 file_size: 337112
 file_type: application/pdf
 learning_resource_types:

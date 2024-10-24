@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz consisting of 5 problems and their solutions.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/1378d40662d7a0c9beb19cafe288c8fb_q2_s04_sol.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/1378d40662d7a0c9beb19cafe288c8fb_q2_s04_sol.pdf
 file_size: 145525
 file_type: application/pdf
 learning_resource_types:
