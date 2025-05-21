@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This homework assignment contains 8 problems.
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/5db3a1c1688d82a8e18c360ae4fabe99_pset6.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/5db3a1c1688d82a8e18c360ae4fabe99_pset6.pdf
 file_size: 39028
 file_type: application/pdf
 learning_resource_types:
