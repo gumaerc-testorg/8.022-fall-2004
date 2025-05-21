@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Laboratory instructions.
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/55795198bdd43824222394558ea9a0c6_lab3.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/55795198bdd43824222394558ea9a0c6_lab3.pdf
 file_size: 204044
 file_type: application/pdf
 learning_resource_types:

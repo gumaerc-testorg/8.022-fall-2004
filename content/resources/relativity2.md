@@ -4,7 +4,7 @@ description: Part 2 of a reading on Special Relativity. This write-up summarizes
   derivation and use of the Lorentz transformation to relate two inertial frames.
   The main results are Lorentz length contraction and the time dilation. The derivation
   of the way of adding velocities is also given.
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/dfcee2a83ac572c2a3187b1dd0ffab23_relativity2.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/dfcee2a83ac572c2a3187b1dd0ffab23_relativity2.pdf
 file_size: 166433
 file_type: application/pdf
 learning_resource_types:

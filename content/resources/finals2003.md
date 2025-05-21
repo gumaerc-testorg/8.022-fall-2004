@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam consisting of 8 problems.
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/b715519a86be8cc3e0b4bee0f8eadf4a_finals2003.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/b715519a86be8cc3e0b4bee0f8eadf4a_finals2003.pdf
 file_size: 2270682
 file_type: application/pdf
 learning_resource_types:

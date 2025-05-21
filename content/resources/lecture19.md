@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   Displacement Current and Maxwell''s Equations.'
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/ece8a047519660f7128c2dea6fcec74d_lecture19.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/ece8a047519660f7128c2dea6fcec74d_lecture19.pdf
 file_size: 123761
 file_type: application/pdf
 learning_resource_types:
