@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   Poisson and Laplace Equations, Curl, Uniqueness Theorem, and Introduction to Conductors.'
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/94fbcd2167568164328feac8e82c6019_lecture4.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/94fbcd2167568164328feac8e82c6019_lecture4.pdf
 file_size: 132024
 file_type: application/pdf
 learning_resource_types:

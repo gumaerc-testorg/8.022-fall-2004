@@ -5,7 +5,7 @@ description: 'This note gives the derivation of relativistic momentum and energy
   as well as the transformation of momentum and energy between inertial
 
   frames.'
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/ea03c8d90fe4e6bc4abe25bef74563d0_relativity2.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/ea03c8d90fe4e6bc4abe25bef74563d0_relativity2.pdf
 file_size: 103610
 file_type: application/pdf
 learning_resource_types: []

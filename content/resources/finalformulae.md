@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a list of formulae for the final examination.
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/837241a2057ab973fcc3dace509456b1_finalformulae.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/837241a2057ab973fcc3dace509456b1_finalformulae.pdf
 file_size: 106465
 file_type: application/pdf
 learning_resource_types:

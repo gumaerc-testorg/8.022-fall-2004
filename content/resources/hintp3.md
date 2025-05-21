@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resources includes hints to a problem contained in Problem Set 6.
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/314750412f7df8d1a7d4025183218021_hintp3.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/314750412f7df8d1a7d4025183218021_hintp3.pdf
 file_size: 20818
 file_type: application/pdf
 learning_resource_types:

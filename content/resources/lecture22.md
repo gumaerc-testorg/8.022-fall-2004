@@ -3,7 +3,7 @@ content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   magnetic dipole of electrons -> macroscopic behavior of matter; properties of diamagnetic,
   paramagnetic and ferromagnetic materials.'
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/e88d6b3e6784f1446e110b0319703a28_lecture22.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/e88d6b3e6784f1446e110b0319703a28_lecture22.pdf
 file_size: 319873
 file_type: application/pdf
 learning_resource_types:

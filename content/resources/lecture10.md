@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slides from the lecture presentation covering the following topics:
   Magnetic Force, Magnetic Field, and Ampere''s Law.'
-file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/f8443a251633d63eeb0e19a7b213d4ce_lecture10.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/f8443a251633d63eeb0e19a7b213d4ce_lecture10.pdf
 file_size: 130794
 file_type: application/pdf
 learning_resource_types:
