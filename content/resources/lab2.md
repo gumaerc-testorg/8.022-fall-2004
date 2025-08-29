@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Laboratory instructions.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/35dbbeed06d5f628b8e7310a6d38fb87_lab2.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/35dbbeed06d5f628b8e7310a6d38fb87_lab2.pdf
 file_size: 169764
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

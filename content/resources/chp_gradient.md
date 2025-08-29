@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/1b2341a141be8f908439f63bc0034b3b_chp_gradient.jpg
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/1b2341a141be8f908439f63bc0034b3b_chp_gradient.jpg
 file_size: 60149
 file_type: image/jpeg
 image_metadata:
