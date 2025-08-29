@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes supplementary notes to Complex Numbers.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/2dc15816e52aee9746ce06417217fa18_complex.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/2dc15816e52aee9746ce06417217fa18_complex.pdf
 file_size: 114504
 file_type: application/pdf
 learning_resource_types: []

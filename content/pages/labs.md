@@ -3,7 +3,7 @@ content_type: page
 description: Student are required to successfully complete two out of the three offered
   laboratory exercises. Each laboratory exercise takes about 1 hour to complete.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 6e7983fe-f6c1-8d0b-5063-8e29ea4f4457
